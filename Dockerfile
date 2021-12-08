@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM 753392824297.dkr.ecr.us-east-1.amazonaws.com/daniel.b
 
 # Install dependencies
 RUN apt-get update && \
